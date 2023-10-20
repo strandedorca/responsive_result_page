@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot_mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/strandedorca/responsive_result_page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://strandedorca.github.io/responsive_result_page/)
 
 ## My process
 
