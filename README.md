@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/strandedorca/responsive_result_page)
-- Live Site URL: [Live sit](https://strandedorca.github.io/responsive_result_page/)
+- Live Site URL: [Live site](https://strandedorca.github.io/responsive_result_page/)
 
 ## My process
 
