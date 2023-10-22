@@ -33,10 +33,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/strandedorca/responsive_result_page)
-- Live Site URL: [Add live site URL here](https://strandedorca.github.io/responsive_result_page/)
+- Solution URL: [Solution](https://github.com/strandedorca/responsive_result_page)
+- Live Site URL: [Live sit](https://strandedorca.github.io/responsive_result_page/)
 
 ## My process
+
+- 20/10/2023 - Finish the mobile design in 1h20.
 
 ### Built with
 
