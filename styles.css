@@ -45,6 +45,11 @@ body {
     display: grid;
 }
 
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
 /* Result Section */
 .result {
     text-align: center;
@@ -163,4 +168,46 @@ button {
     padding: 20px;
     border-radius: 60px;
     border: none;
+}
+
+@media (min-width: 769px) {
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .wrapper {
+        max-width: 70%;
+    }
+    .result {
+        border-radius: 30px;
+        height: 450px;
+    }
+    .summary {
+        height: 500px;
+    }
+}
+
+@media (min-width: 992px) and (orientation: landscape) {
+    .wrapper {
+        max-width: 50%;
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: auto auto;
+        align-items: stretch;
+        row-gap: 30px;
+    }
+    .attribution {
+        grid-column: 1 / span 2;
+        grid-row: 2 / 3;
+    }
+    .result {
+        grid-row: 1 / 2;
+        grid-column: 1 / 2;
+        height: 100%;
+    }
+    .summary {
+        grid-row: 1 / 2;
+        grid-column: 2 / 3;
+    }
 }

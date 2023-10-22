@@ -29,6 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot_mobile.png)
+![](./screenshot_desktop.png)
 
 ### Links
 
@@ -45,25 +46,12 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Use `em` or `rem` to size elements (even with padding, margin, ...) instead of `px`.
+- Use a `.container` and set its width to 100% to wrap around the whole page for responsive design.
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
 ### Continued development
 
